@@ -1,0 +1,6 @@
+{
+  "name": "EduManage - School Management Portal",
+  "description": "Comprehensive full-stack School Management Portal for Admins, Teachers, Students, and Parents with attendance, report cards, timetable, and fee management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
